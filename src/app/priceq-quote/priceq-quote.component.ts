@@ -1,5 +1,5 @@
 import { Component, OnInit ,EventEmitter, Output} from '@angular/core';
-import {PriceQuote} from '../model/PriceQuote.model'
+import {PriceQuote} from '../model/priceQuote.model'
 @Component({
   selector: 'app-priceq-quote',
   templateUrl: './priceq-quote.component.html',
